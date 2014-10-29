@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_call_number"
+        android:icon="@android:drawable/ic_menu_call"
+        android:orderInCategory="0"
+        android:showAsAction="always"
+        android:title="@string/call_number"/>
+    <item
+        android:id="@+id/action_send_email"
+        android:icon="@drawable/ic_dialog_email"
+        android:orderInCategory="0"
+        android:showAsAction="always"
+        android:title="@string/send_email"/>
+
+</menu>

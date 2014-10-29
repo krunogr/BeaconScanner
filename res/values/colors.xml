@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="abb_red">#FF000F</color>
+  <color name="abb_grey">#999999</color>
+  <color name="abb_bg_head_w">#00555F</color>
+  <color name="abb_bg_sub_w">#007987</color>
+  <color name="abb_bg_head_b">#00ACB6</color>
+  <color name="abb_bg_sub_b">#39E8DA</color>
+  <color name="abb_bg_lightest">#97FFEF</color>
+</resources>

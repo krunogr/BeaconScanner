@@ -1,0 +1,16 @@
+<config>
+
+<useSimulatedIBeacons>false</useSimulatedIBeacons>
+<betweenScanningPeriod>20000</betweenScanningPeriod>
+
+<scanPeriod>550</scanPeriod>
+<useBackgroundMode>true</useBackgroundMode>
+<betweenBackgroundScanningPeriod>50000</betweenBackgroundScanningPeriod>
+
+<scanBackgroundPeriod>1000</scanBackgroundPeriod>
+<distanceImmediate>0.5</distanceImmediate>
+<distanceNear>2</distanceNear>
+<numberOfDistanceForAverage>3</numberOfDistanceForAverage>
+
+<showByDistance>false</showByDistance>
+</config>
