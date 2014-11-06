@@ -20,7 +20,6 @@ import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnDismissListener;
 import android.content.Intent;
-import android.graphics.Region;
 import android.media.AudioManager;
 import android.media.ToneGenerator;
 import android.net.Uri;
@@ -46,6 +45,12 @@ import android.widget.ListView;
 import android.widget.ToggleButton;
 
 import com.csvreader.CsvReader;
+import com.radiusnetworks.ibeacon.IBeacon;
+import com.radiusnetworks.ibeacon.IBeaconConsumer;
+import com.radiusnetworks.ibeacon.IBeaconManager;
+import com.radiusnetworks.ibeacon.MonitorNotifier;
+import com.radiusnetworks.ibeacon.RangeNotifier;
+import com.radiusnetworks.ibeacon.Region;
 
 public class ScanActivity extends Activity implements IBeaconConsumer, OnItemClickListener, OnItemLongClickListener,
 		OnCheckedChangeListener {

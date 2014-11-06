@@ -1,5 +1,7 @@
 package com.radiusnetworks.ibeaconreference;
 
+import com.radiusnetworks.ibeacon.IBeacon;
+
 
 public class Beacon extends IBeacon {
 
