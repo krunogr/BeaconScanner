@@ -10,6 +10,6 @@ After running app you will see all beacons in your area (up to 10 meters). On th
 
 ![Alt text](https://github.com/krunogr/BeaconScanner/blob/master/screenshots/list.JPG "List of beacons")
 
-If you press long on a beacon in the list then you will allow to add content to this beacon or change a name (2th image).
+If you press long on a beacon in the list then you will be allowed to add content to this beacon or change the name (2th image).
 
 ![Alt text](https://github.com/krunogr/BeaconScanner/blob/master/screenshots/addContents.JPG "Add files to beacons")
